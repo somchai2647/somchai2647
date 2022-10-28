@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=somchai2647&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-###
