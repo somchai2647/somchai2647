@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
