@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Somchai Boriboon and I'm a student IT, from Thailand</h2>
+<h2 align="left">Hi 👋! My name is Somchai Boriboon from Thailand</h2>
 
 ###
 
